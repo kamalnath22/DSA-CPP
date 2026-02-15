@@ -1,0 +1,95 @@
+#include <bits/stdc++.h>
+using namespace std;
+	class node{
+	    public:
+	    int data;
+	    node* next;
+	};
+	node*covertarraytoll(vector<int>&arr,int n){
+	    node* head=new node{arr[0],NULL};
+	    node* temp=head;
+	    for(int i=1;i<n;i++){
+	        temp->next=new node{arr[i],NULL};
+	        temp=temp->next;
+	    }
+	    return head;
+	}
+	node*removehead(node*head){
+	    node*temp=head;
+	    head=head->next;
+	    delete temp;
+	    return head;
+	    
+	}
+	node*removetail(node*head){
+	    node*temp=head;
+	    while(temp->next->next!=NULL){
+	        temp=temp->next;
+	    }
+	    delete temp->next;
+	    temp->next=NULL;
+	    return head;
+	}
+	node*removeatpositionk(node*head,int k){
+	    node*temp=head;
+	    if(k==1) {
+	        node*temp=head;
+	    head=head->next;
+	    delete temp;
+	    return head;
+	    
+	    }
+	    
+	        int cnt=0;
+	        node*prev=NULL;
+	        while(temp!=NULL){
+	            cnt++;
+	            
+	        
+	        if(cnt==k){
+	            prev->next=prev->next->next;
+	            delete temp;
+	            break;
+	        }
+	        
+	            prev=temp;
+	            temp=temp->next;
+	        
+	    }
+	    return head;
+	}
+	node*insertathead(node*head,int el){
+	    node*newnode=new node{el,head};
+	    head=newnode;
+	    return head;
+	    
+	}
+	node *insertattail(node*head,int el){
+	    node*temp=head;
+	    node*newnode=new node{el,NULL};
+	    while(temp->next!=NULL){
+	        temp=temp->next;
+	    }
+	    temp->next=newnode;
+	    newnode->next=NULL;
+	    return head;
+	    
+	}
+	void printll(node*head){
+	    node*temp=head;
+	    while(temp!=NULL){
+	        cout<<temp->data<<endl;
+	        temp=temp->next;
+	        
+	    }}
+	int main(){
+	    vector<int>arr={10,20,30,40};
+	    int n=arr.size();
+	    node*head=covertarraytoll(arr,n);
+        int k=2;
+        int el=100;
+	    head=insertattail(head,el);
+	    printll(head);
+	}
+
+
