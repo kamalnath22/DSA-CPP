@@ -12,13 +12,12 @@ public:
             fast = fast->next->next;
 
             if (slow == fast) {
-                // Phase 2: Find cycle start
                 ListNode* ptr = head;
                 while (ptr != slow) {
                     ptr = ptr->next;
                     slow = slow->next;
                 }
-                return ptr;  // cycle start node
+                return ptr;  
             }
         }
         return nullptr; // no cycle
