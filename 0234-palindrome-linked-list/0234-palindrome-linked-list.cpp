@@ -19,7 +19,7 @@ public:
         }
         int low=0;
         int high=result.size()-1;
-        while(low<high){
+        while(low<=high){
             if(result[low]!=result[high]){
                 return false;
             }
