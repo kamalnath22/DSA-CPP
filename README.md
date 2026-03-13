@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/kamalnath22/DSA-CPP/tree/main/0496-next-greater-element-i/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/kamalnath22/DSA-CPP/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -17,4 +18,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/kamalnath22/DSA-CPP/tree/main/0496-next-greater-element-i/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kamalnath22/DSA-CPP/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
