@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/kamalnath22/DSA-CPP/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/kamalnath22/DSA-CPP/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/kamalnath22/DSA-CPP/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/kamalnath22/DSA-CPP/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/kamalnath22/DSA-CPP/tree/main/0496-next-greater-element-i/) | Easy |
@@ -61,9 +62,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/kamalnath22/DSA-CPP/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/kamalnath22/DSA-CPP/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/kamalnath22/DSA-CPP/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/kamalnath22/DSA-CPP/tree/main/0048-rotate-image/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/kamalnath22/DSA-CPP/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
