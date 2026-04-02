@@ -27,6 +27,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kamalnath22/DSA-CPP/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/kamalnath22/DSA-CPP/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -94,4 +95,16 @@
 | [0015-3sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0018-4sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0229-majority-element-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kamalnath22/DSA-CPP/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kamalnath22/DSA-CPP/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kamalnath22/DSA-CPP/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
