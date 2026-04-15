@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0018-4sum/) | Medium |
 | [0039-combination-sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/kamalnath22/DSA-CPP/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/kamalnath22/DSA-CPP/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/kamalnath22/DSA-CPP/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/kamalnath22/DSA-CPP/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -162,6 +163,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/kamalnath22/DSA-CPP/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/kamalnath22/DSA-CPP/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
