@@ -18,6 +18,7 @@
 | [0078-subsets](https://github.com/kamalnath22/DSA-CPP/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/kamalnath22/DSA-CPP/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/kamalnath22/DSA-CPP/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -33,6 +34,7 @@
 | [0001-two-sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamalnath22/DSA-CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/kamalnath22/DSA-CPP/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0169-majority-element](https://github.com/kamalnath22/DSA-CPP/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/kamalnath22/DSA-CPP/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/kamalnath22/DSA-CPP/tree/main/0242-valid-anagram/) | Easy |
@@ -75,6 +77,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/kamalnath22/DSA-CPP/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/kamalnath22/DSA-CPP/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kamalnath22/DSA-CPP/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -126,6 +129,7 @@
 | [0015-3sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/kamalnath22/DSA-CPP/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/kamalnath22/DSA-CPP/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/kamalnath22/DSA-CPP/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/kamalnath22/DSA-CPP/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -201,4 +205,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/kamalnath22/DSA-CPP/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/kamalnath22/DSA-CPP/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
