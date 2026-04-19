@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/kamalnath22/DSA-CPP/tree/main/0046-permutations/) | Medium |
@@ -106,6 +107,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
