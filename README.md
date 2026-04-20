@@ -31,6 +31,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kamalnath22/DSA-CPP/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/kamalnath22/DSA-CPP/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kamalnath22/DSA-CPP/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kamalnath22/DSA-CPP/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/kamalnath22/DSA-CPP/tree/main/0054-spiral-matrix/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kamalnath22/DSA-CPP/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@
 | [0075-sort-colors](https://github.com/kamalnath22/DSA-CPP/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/kamalnath22/DSA-CPP/tree/main/0283-move-zeroes/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kamalnath22/DSA-CPP/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
