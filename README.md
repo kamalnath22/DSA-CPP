@@ -12,6 +12,7 @@
 | [0040-combination-sum-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/kamalnath22/DSA-CPP/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/kamalnath22/DSA-CPP/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/kamalnath22/DSA-CPP/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/kamalnath22/DSA-CPP/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/kamalnath22/DSA-CPP/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/kamalnath22/DSA-CPP/tree/main/0075-sort-colors/) | Medium |
@@ -181,6 +182,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/kamalnath22/DSA-CPP/tree/main/0053-maximum-subarray/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -208,5 +210,6 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/kamalnath22/DSA-CPP/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/kamalnath22/DSA-CPP/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
