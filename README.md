@@ -14,6 +14,7 @@
 | [0048-rotate-image](https://github.com/kamalnath22/DSA-CPP/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/kamalnath22/DSA-CPP/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/kamalnath22/DSA-CPP/tree/main/0054-spiral-matrix/) | Medium |
+| [0066-plus-one](https://github.com/kamalnath22/DSA-CPP/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/kamalnath22/DSA-CPP/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/kamalnath22/DSA-CPP/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/kamalnath22/DSA-CPP/tree/main/0078-subsets/) | Medium |
@@ -108,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/kamalnath22/DSA-CPP/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/kamalnath22/DSA-CPP/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0189-rotate-array/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kamalnath22/DSA-CPP/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Simulation
