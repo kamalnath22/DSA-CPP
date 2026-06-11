@@ -35,6 +35,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kamalnath22/DSA-CPP/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/kamalnath22/DSA-CPP/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/kamalnath22/DSA-CPP/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kamalnath22/DSA-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kamalnath22/DSA-CPP/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -155,6 +156,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalnath22/DSA-CPP/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/kamalnath22/DSA-CPP/tree/main/0283-move-zeroes/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kamalnath22/DSA-CPP/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -168,6 +170,7 @@
 | [0242-valid-anagram](https://github.com/kamalnath22/DSA-CPP/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/kamalnath22/DSA-CPP/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
