@@ -23,6 +23,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kamalnath22/DSA-CPP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0136-single-number/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalnath22/DSA-CPP/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/kamalnath22/DSA-CPP/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0229-majority-element-ii/) | Medium |
@@ -151,6 +152,7 @@
 | [0075-sort-colors](https://github.com/kamalnath22/DSA-CPP/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/kamalnath22/DSA-CPP/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalnath22/DSA-CPP/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/kamalnath22/DSA-CPP/tree/main/0283-move-zeroes/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kamalnath22/DSA-CPP/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -253,6 +255,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalnath22/DSA-CPP/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kamalnath22/DSA-CPP/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Database
 | Problem Name | Difficulty |
