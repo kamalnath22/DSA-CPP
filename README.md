@@ -19,6 +19,7 @@
 | [0073-set-matrix-zeroes](https://github.com/kamalnath22/DSA-CPP/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/kamalnath22/DSA-CPP/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/kamalnath22/DSA-CPP/tree/main/0078-subsets/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kamalnath22/DSA-CPP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -157,6 +158,7 @@
 | [0018-4sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/kamalnath22/DSA-CPP/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/kamalnath22/DSA-CPP/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalnath22/DSA-CPP/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
