@@ -2,7 +2,7 @@ class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
 
-        // Arrays with 0, 1 or 2 elements are already valid
+        
         if(nums.size() <= 2)
             return nums.size();
 
