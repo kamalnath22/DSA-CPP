@@ -32,6 +32,7 @@
 | [0229-majority-element-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/kamalnath22/DSA-CPP/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/kamalnath22/DSA-CPP/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/kamalnath22/DSA-CPP/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0414-third-maximum-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/kamalnath22/DSA-CPP/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/kamalnath22/DSA-CPP/tree/main/0496-next-greater-element-i/) | Easy |
@@ -146,6 +147,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/kamalnath22/DSA-CPP/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/kamalnath22/DSA-CPP/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kamalnath22/DSA-CPP/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -296,4 +298,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/kamalnath22/DSA-CPP/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/kamalnath22/DSA-CPP/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
