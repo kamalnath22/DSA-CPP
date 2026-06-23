@@ -45,6 +45,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/kamalnath22/DSA-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kamalnath22/DSA-CPP/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kamalnath22/DSA-CPP/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/kamalnath22/DSA-CPP/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kamalnath22/DSA-CPP/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kamalnath22/DSA-CPP/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/kamalnath22/DSA-CPP/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -155,6 +156,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/kamalnath22/DSA-CPP/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kamalnath22/DSA-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kamalnath22/DSA-CPP/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1991-find-the-middle-index-in-array](https://github.com/kamalnath22/DSA-CPP/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
