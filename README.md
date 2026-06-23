@@ -38,6 +38,7 @@
 | [0496-next-greater-element-i](https://github.com/kamalnath22/DSA-CPP/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/kamalnath22/DSA-CPP/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/kamalnath22/DSA-CPP/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0724-find-pivot-index](https://github.com/kamalnath22/DSA-CPP/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/kamalnath22/DSA-CPP/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -149,6 +150,7 @@
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kamalnath22/DSA-CPP/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/kamalnath22/DSA-CPP/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/kamalnath22/DSA-CPP/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kamalnath22/DSA-CPP/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kamalnath22/DSA-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
