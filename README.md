@@ -26,6 +26,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kamalnath22/DSA-CPP/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0136-single-number/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kamalnath22/DSA-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/kamalnath22/DSA-CPP/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalnath22/DSA-CPP/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/kamalnath22/DSA-CPP/tree/main/0169-majority-element/) | Easy |
@@ -76,6 +77,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/kamalnath22/DSA-CPP/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/kamalnath22/DSA-CPP/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kamalnath22/DSA-CPP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kamalnath22/DSA-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/kamalnath22/DSA-CPP/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kamalnath22/DSA-CPP/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
@@ -142,6 +144,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/kamalnath22/DSA-CPP/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/kamalnath22/DSA-CPP/tree/main/0066-plus-one/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kamalnath22/DSA-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0189-rotate-array/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kamalnath22/DSA-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kamalnath22/DSA-CPP/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
