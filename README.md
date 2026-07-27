@@ -109,6 +109,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kamalnath22/DSA-CPP/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kamalnath22/DSA-CPP/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kamalnath22/DSA-CPP/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/kamalnath22/DSA-CPP/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +193,7 @@
 | [0414-third-maximum-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/kamalnath22/DSA-CPP/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/kamalnath22/DSA-CPP/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
