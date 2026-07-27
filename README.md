@@ -76,6 +76,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/kamalnath22/DSA-CPP/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/kamalnath22/DSA-CPP/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kamalnath22/DSA-CPP/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/kamalnath22/DSA-CPP/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kamalnath22/DSA-CPP/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -311,5 +312,6 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/kamalnath22/DSA-CPP/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/kamalnath22/DSA-CPP/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
