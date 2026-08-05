@@ -317,4 +317,8 @@
 | ------- | ------- |
 | [0155-min-stack](https://github.com/kamalnath22/DSA-CPP/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/kamalnath22/DSA-CPP/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/kamalnath22/DSA-CPP/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
