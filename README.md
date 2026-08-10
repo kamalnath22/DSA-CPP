@@ -54,6 +54,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kamalnath22/DSA-CPP/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kamalnath22/DSA-CPP/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/kamalnath22/DSA-CPP/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kamalnath22/DSA-CPP/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kamalnath22/DSA-CPP/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kamalnath22/DSA-CPP/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/kamalnath22/DSA-CPP/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kamalnath22/DSA-CPP/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kamalnath22/DSA-CPP/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kamalnath22/DSA-CPP/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kamalnath22/DSA-CPP/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kamalnath22/DSA-CPP/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
