@@ -46,6 +46,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/kamalnath22/DSA-CPP/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kamalnath22/DSA-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kamalnath22/DSA-CPP/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kamalnath22/DSA-CPP/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/kamalnath22/DSA-CPP/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kamalnath22/DSA-CPP/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -95,6 +96,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kamalnath22/DSA-CPP/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kamalnath22/DSA-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kamalnath22/DSA-CPP/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kamalnath22/DSA-CPP/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kamalnath22/DSA-CPP/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kamalnath22/DSA-CPP/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
