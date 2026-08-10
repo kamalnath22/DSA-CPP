@@ -1,27 +1,37 @@
 class Solution {
 public:
-    bool isvowel(char c){
-        return c=='a'||c=='e'||c=='i'||c=='o'||c=='u';
+    bool checkvowel(char c){
+        if(c=='a'|| c=='e'||c=='i'||c=='o'||c=='u'){
+            return true;
+        }
+        else{
+            return false;
+        }
     }
     int maxVowels(string s, int k) {
-        int maxcount=0;
+        string sub="";
         int count=0;
+        int maxcount=0;
         for(int i=0;i<k;i++){
-            if(isvowel(s[i])){
+            sub+=s[i];
+            if(checkvowel(s[i])){
                 count++;
+
             }
         }
-        maxcount=count;
-        for(int i=k;i<s.size();i++){
-            if(isvowel(s[i])){
-                count++;
-            }
-            if(isvowel(s[i-k])){
+        maxcount=max(count,maxcount);
+        for(int i=k;i<s.length();i++){
+            sub+=s[i];
+            sub.erase(i-k,1);
+            if(checkvowel(s[i-k])){
                 count--;
             }
-            maxcount=max(maxcount,count);
+            if(checkvowel(s[i])){
+                count++;
+            }
+            maxcount=max(count,maxcount);
         }
         return maxcount;
-
+        
     }
 };
