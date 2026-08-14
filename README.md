@@ -31,6 +31,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalnath22/DSA-CPP/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/kamalnath22/DSA-CPP/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/kamalnath22/DSA-CPP/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/kamalnath22/DSA-CPP/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/kamalnath22/DSA-CPP/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -66,6 +67,7 @@
 | [0073-set-matrix-zeroes](https://github.com/kamalnath22/DSA-CPP/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/kamalnath22/DSA-CPP/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/kamalnath22/DSA-CPP/tree/main/0205-isomorphic-strings/) | Easy |
+| [0217-contains-duplicate](https://github.com/kamalnath22/DSA-CPP/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/kamalnath22/DSA-CPP/tree/main/0242-valid-anagram/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kamalnath22/DSA-CPP/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -205,6 +207,7 @@
 | [0075-sort-colors](https://github.com/kamalnath22/DSA-CPP/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/kamalnath22/DSA-CPP/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/kamalnath22/DSA-CPP/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/kamalnath22/DSA-CPP/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0414-third-maximum-number/) | Easy |
