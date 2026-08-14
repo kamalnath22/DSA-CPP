@@ -51,6 +51,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kamalnath22/DSA-CPP/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/kamalnath22/DSA-CPP/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kamalnath22/DSA-CPP/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/kamalnath22/DSA-CPP/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/kamalnath22/DSA-CPP/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kamalnath22/DSA-CPP/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kamalnath22/DSA-CPP/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -160,6 +161,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/kamalnath22/DSA-CPP/tree/main/0054-spiral-matrix/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/kamalnath22/DSA-CPP/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kamalnath22/DSA-CPP/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
