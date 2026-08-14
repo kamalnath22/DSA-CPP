@@ -49,6 +49,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/kamalnath22/DSA-CPP/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kamalnath22/DSA-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kamalnath22/DSA-CPP/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamalnath22/DSA-CPP/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kamalnath22/DSA-CPP/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/kamalnath22/DSA-CPP/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/kamalnath22/DSA-CPP/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -77,6 +78,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kamalnath22/DSA-CPP/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kamalnath22/DSA-CPP/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamalnath22/DSA-CPP/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kamalnath22/DSA-CPP/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/kamalnath22/DSA-CPP/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kamalnath22/DSA-CPP/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -213,6 +215,7 @@
 | [0414-third-maximum-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/kamalnath22/DSA-CPP/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamalnath22/DSA-CPP/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/kamalnath22/DSA-CPP/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -337,4 +340,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/kamalnath22/DSA-CPP/tree/main/0169-majority-element/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamalnath22/DSA-CPP/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
