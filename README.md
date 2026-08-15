@@ -36,6 +36,7 @@
 | [0238-product-of-array-except-self](https://github.com/kamalnath22/DSA-CPP/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/kamalnath22/DSA-CPP/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/kamalnath22/DSA-CPP/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/kamalnath22/DSA-CPP/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0414-third-maximum-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/kamalnath22/DSA-CPP/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -210,6 +211,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalnath22/DSA-CPP/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/kamalnath22/DSA-CPP/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/kamalnath22/DSA-CPP/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/kamalnath22/DSA-CPP/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -290,6 +292,7 @@
 | [0078-subsets](https://github.com/kamalnath22/DSA-CPP/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0136-single-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kamalnath22/DSA-CPP/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -322,6 +325,7 @@
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/kamalnath22/DSA-CPP/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalnath22/DSA-CPP/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kamalnath22/DSA-CPP/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -359,4 +363,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamalnath22/DSA-CPP/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
