@@ -94,6 +94,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kamalnath22/DSA-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/kamalnath22/DSA-CPP/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kamalnath22/DSA-CPP/tree/main/0496-next-greater-element-i/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kamalnath22/DSA-CPP/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/kamalnath22/DSA-CPP/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/kamalnath22/DSA-CPP/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/kamalnath22/DSA-CPP/tree/main/0796-rotate-string/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kamalnath22/DSA-CPP/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kamalnath22/DSA-CPP/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kamalnath22/DSA-CPP/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kamalnath22/DSA-CPP/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
