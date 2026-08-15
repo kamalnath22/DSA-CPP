@@ -71,6 +71,7 @@
 | [0217-contains-duplicate](https://github.com/kamalnath22/DSA-CPP/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/kamalnath22/DSA-CPP/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/kamalnath22/DSA-CPP/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/kamalnath22/DSA-CPP/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/kamalnath22/DSA-CPP/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kamalnath22/DSA-CPP/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kamalnath22/DSA-CPP/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -121,6 +122,7 @@
 | [0125-valid-palindrome](https://github.com/kamalnath22/DSA-CPP/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/kamalnath22/DSA-CPP/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/kamalnath22/DSA-CPP/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/kamalnath22/DSA-CPP/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/kamalnath22/DSA-CPP/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kamalnath22/DSA-CPP/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kamalnath22/DSA-CPP/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
