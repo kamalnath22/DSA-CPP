@@ -133,6 +133,7 @@
 | [0383-ransom-note](https://github.com/kamalnath22/DSA-CPP/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kamalnath22/DSA-CPP/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kamalnath22/DSA-CPP/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0443-string-compression](https://github.com/kamalnath22/DSA-CPP/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/kamalnath22/DSA-CPP/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/kamalnath22/DSA-CPP/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kamalnath22/DSA-CPP/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -218,6 +219,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/kamalnath22/DSA-CPP/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/kamalnath22/DSA-CPP/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0443-string-compression](https://github.com/kamalnath22/DSA-CPP/tree/main/0443-string-compression/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kamalnath22/DSA-CPP/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kamalnath22/DSA-CPP/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
