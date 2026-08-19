@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/kamalnath22/DSA-CPP/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/kamalnath22/DSA-CPP/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kamalnath22/DSA-CPP/tree/main/0027-remove-element/) | Easy |
@@ -201,6 +202,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kamalnath22/DSA-CPP/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/kamalnath22/DSA-CPP/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kamalnath22/DSA-CPP/tree/main/0027-remove-element/) | Easy |
@@ -222,6 +224,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/kamalnath22/DSA-CPP/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/kamalnath22/DSA-CPP/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kamalnath22/DSA-CPP/tree/main/0088-merge-sorted-array/) | Easy |
