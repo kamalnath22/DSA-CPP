@@ -1,7 +1,12 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        if(sorted(s)==sorted(t)):
-            return True
-        else:
-            return False    
+        mp={}
+        for i in range(len(s)):
+            mp[s[i]]=mp.get(s[i],0)+1 
+        for i in range(len(t)):
+            mp[t[i]]=mp.get(t[i],0)-1
+        for j in mp.values():
+            if(j!=0):
+                return False
+        return True                 
         
