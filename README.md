@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/kamalnath22/DSA-CPP/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/kamalnath22/DSA-CPP/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/kamalnath22/DSA-CPP/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/kamalnath22/DSA-CPP/tree/main/0018-4sum/) | Medium |
@@ -122,6 +123,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamalnath22/DSA-CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/kamalnath22/DSA-CPP/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/kamalnath22/DSA-CPP/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/kamalnath22/DSA-CPP/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/kamalnath22/DSA-CPP/tree/main/0242-valid-anagram/) | Easy |
@@ -374,4 +376,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kamalnath22/DSA-CPP/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/kamalnath22/DSA-CPP/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
